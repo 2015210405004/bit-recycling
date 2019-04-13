@@ -9,7 +9,14 @@
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
             <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
+           
+           
+
+
+
+
+
+           
             <span>5.0</span>
         </div>  
         <div class="select-star">
